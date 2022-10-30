@@ -15,7 +15,7 @@ LDD_SITE_METHOD = git
 LDD_GIT_SUBMODULES = YES
 
 #As described in the Assignment instructuion - using Module Subdirs option to build the misc and scull modules
-LDD_MODULE_SUBDIRS = misc_modules
+LDD_MODULE_SUBDIRS = misc-modules
 LDD_MODULE_SUBDIRS += scull
 
 
